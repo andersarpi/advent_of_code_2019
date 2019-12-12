@@ -29,6 +29,9 @@
     <Compile Include="Day11.fs">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Compile>
+    <Compile Include="Day12.fs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
     <Compile Include="Program.fs" />
   </ItemGroup>
 
